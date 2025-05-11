@@ -1,73 +1,97 @@
-# Welcome to your Lovable project
+![goo](https://github.com/user-attachments/assets/7da93563-695a-4544-b0f0-b0a8f7a86cf8)## WElcome to my Project Ad Campaign
 
-## Project info
+# 📧 Ad Campaign Mastermind
 
-**URL**: https://lovable.dev/projects/712b8064-df9d-4198-a45b-ce0f36bfc0e3
+**Ad Campaign Mastermind** is a comprehensive campaign-building platform tailored to help marketers create, test, and optimize email sequences effectively. Built for freelancers, agencies, and small businesses, this tool helps streamline lead nurturing and drive conversions with high-performing email strategies.
 
-## How can I edit this code?
+## Link- https://ad-campaign-black.vercel.app/
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+- 🔧 **Email Sequence Builder** – Create multi-step campaigns with welcome emails, product showcases, special offers, and more.
+- 🧪 **A/B Testing Suite** – Optimize subject lines, CTAs, and send times with real-time variant testing.
+- 🔁 **Follow-Up Automation** – Automate re-engagement emails for unopened campaigns or inactive users.
+- 📊 **Performance Dashboard** – Analyze open rates, click-throughs, and conversion metrics.
+- 📁 **Template Library** – Use ready-made or custom-designed email templates.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/712b8064-df9d-4198-a45b-ce0f36bfc0e3) and start prompting.
+  
+![goo](https://github.com/user-attachments/assets/6f11481b-94e4-4962-a12d-f2c96e97bc72)
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+## 📂 Project Structure
+ad-campaign-mastermind/
+├── public/                  # Static assets
+├── src/
+│   ├── components/          # React components for UI
+│   ├── templates/           # Prebuilt email templates
+│   ├── pages/               # Main app views (Dashboard, Editor, Analytics, etc.)
+│   ├── utils/               # Helper functions and A/B logic
+│   └── App.js               # Entry point
+├── README.md
+├── package.json
+└── .env.example             # Sample environment variables
+![goo1](https://github.com/user-attachments/assets/6a73d85e-5d70-413e-b886-73b825f24a78)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![goo2](https://github.com/user-attachments/assets/4e458de9-18f7-4ddb-93a4-20eb99813d3d)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Installation
 
-Follow these steps:
+```bash
+# Clone the repo
+git clone https://github.com/your-username/ad-campaign-mastermind.git
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Navigate to the folder
+cd ad-campaign-mastermind
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Install dependencies
+npm install
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
+
+
+![goo3](https://github.com/user-attachments/assets/e5c27dea-ec01-4225-b3bb-068d76a7ba81)
+
+![goo4'](https://github.com/user-attachments/assets/607c67f6-15e0-4255-a329-26f531f38fd3)
+
+![Uploading goo5.png…]()
+
+
+![Uploading goo6.png…]()
+
+
+## 🔧 Configuration
+
+Create a `.env` file in the root with the following variables:
+
+```env
+REACT_APP_API_BASE_URL=http://localhost:5000
+REACT_APP_SENDGRID_API_KEY=your-sendgrid-key
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📬 Usage
 
-**Use GitHub Codespaces**
+1. Launch the app (`npm run dev`).
+2. Navigate through steps: Strategy → Email Series → A/B Testing → Follow-Up.
+3. Use templates or customize your own emails.
+4. Save and schedule the campaign.
+5. Monitor performance via the dashboard.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📈 KPIs to Track
 
-This project is built with:
+* **Open Rate**: Target ≥ 25%
+* **Click Rate**: Target ≥ 10%
+* **Conversion Rate**: Target ≥ 5%
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🧪 Testing
 
-Simply open [Lovable](https://lovable.dev/projects/712b8064-df9d-4198-a45b-ce0f36bfc0e3) and click on Share -> Publish.
+```bash
+npm run test
+```
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
