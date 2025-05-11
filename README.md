@@ -51,13 +51,8 @@ npm run dev
 
 ![goo3](https://github.com/user-attachments/assets/e5c27dea-ec01-4225-b3bb-068d76a7ba81)
 
+
 ![goo4'](https://github.com/user-attachments/assets/607c67f6-15e0-4255-a329-26f531f38fd3)
-
-
-![goo5](https://github.com/user-attachments/assets/4d574906-fea8-4eeb-b780-0bb931065a97)
-
-
-![goo6](https://github.com/user-attachments/assets/625e67a6-297a-4c62-8dc6-dfa218e31bee)
 
 
 ## 🔧 Configuration
@@ -68,6 +63,11 @@ Create a `.env` file in the root with the following variables:
 REACT_APP_API_BASE_URL=http://localhost:5000
 REACT_APP_SENDGRID_API_KEY=your-sendgrid-key
 ```
+
+![goo5](https://github.com/user-attachments/assets/4d574906-fea8-4eeb-b780-0bb931065a97)
+
+
+![goo6](https://github.com/user-attachments/assets/625e67a6-297a-4c62-8dc6-dfa218e31bee)
 
 ---
 
