@@ -1,6 +1,5 @@
-![goo](https://github.com/user-attachments/assets/7da93563-695a-4544-b0f0-b0a8f7a86cf8)## WElcome to my Project Ad Campaign
-
-# 📧 Ad Campaign Mastermind
+## Welcome my Project  Ad Campaign
+# 📧 Mastermind
 
 **Ad Campaign Mastermind** is a comprehensive campaign-building platform tailored to help marketers create, test, and optimize email sequences effectively. Built for freelancers, agencies, and small businesses, this tool helps streamline lead nurturing and drive conversions with high-performing email strategies.
 
