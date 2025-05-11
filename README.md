@@ -53,10 +53,11 @@ npm run dev
 
 ![goo4'](https://github.com/user-attachments/assets/607c67f6-15e0-4255-a329-26f531f38fd3)
 
-![Uploading goo5.png…]()
+
+![goo5](https://github.com/user-attachments/assets/4d574906-fea8-4eeb-b780-0bb931065a97)
 
 
-![Uploading goo6.png…]()
+![goo6](https://github.com/user-attachments/assets/625e67a6-297a-4c62-8dc6-dfa218e31bee)
 
 
 ## 🔧 Configuration
